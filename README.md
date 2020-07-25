@@ -12,5 +12,5 @@
 
 
 ### About me:
-I am currently working as Senior Engineer @ Mindtree Ltd. 
-I am pursuing my Post Graduate Diploma in Machine Learning and AI from IIIT, Bangalore.
+I am currently working as `Senior Engineer @ Mindtree Ltd`. 
+I am pursuing my `Post Graduate Diploma` in `Machine Learning and AI` from `IIIT, Bangalore`.
