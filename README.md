@@ -32,3 +32,7 @@ I like coding and always would love to learn & work with new technologies.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
+<!--
+### Interesting stats
+-->
+<!-- ![Karthik's stats](https://github-readme-stats.vercel.app/api?username=KarthikKaiplody&show_icons=true) -->
