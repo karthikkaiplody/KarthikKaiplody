@@ -14,7 +14,7 @@ Started my journey with `Python` programming lanaguage and improving my knowledg
 I like coding and always would love to learn & work with new technologies.
 
 
-### Tools I work and learn
+### Tools I am working and learning
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
