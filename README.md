@@ -9,10 +9,11 @@
 
 
 ### About me:
-I am currently working as `Senior Engineer @ Mindtree Ltd`. And pursuing my `Post Graduate Diploma` in `Machine Learning and AI` from `IIIT, Bengaluru`.
-Started my journey with `Python` programming lanaguage and improving my knowledge by experimenting, exploring and learning each day. 
-I like coding and always would love to learn & work with new technologies.
-
+- I am currently working as `Senior Engineer @ Mindtree Ltd`. 
+- Pursuing my `Post Graduate Diploma` in `Machine Learning and AI` from `IIIT, Bengaluru`.
+- Started my journey with `Python` programming lanaguage and improving my knowledge by experimenting, exploring and learning each day. 
+- I like coding and always would love to learn & work with new technologies.
+- 👯 I’m looking to collaborate on **anything that's cool and interesting!**
 
 ### Tools I am working and learning
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
