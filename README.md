@@ -16,22 +16,22 @@
 - 👯 I’m looking to collaborate on **anything that's cool and interesting!**
 
 ### Tools I am working and learning
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
 <!--
 ### Interesting stats
