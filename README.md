@@ -11,8 +11,8 @@
 ### About me:
 - I am currently working as `Senior Engineer @ Mindtree Ltd`. 
 - Pursuing my `Post Graduate Diploma` in `Machine Learning and AI` from `IIIT, Bengaluru`.
-- Started my journey with `Python` programming lanaguage on Development and Enhancement of Networking Protocols (Layer-2 and Layer-3) and improving my knowledge by experimenting, exploring and learning each day. 
-- I found my interest towards Machine Learning and Deep Learning, started learning about the cool things which can be solve using it.
+- Started my journey with `Python` programming lanaguage on Development and Enhancement of client Software on Networking Protocols (Layer-2 and Layer-3) and improving my knowledge by experimenting, exploring and learning each day. 
+- I found my interest towards Machine Learning and Deep Learning, started learning about the cool things which can be solved using it.
 - I like coding and always would love to learn & work with new technologies.
 - 👯 I’m looking to collaborate on **anything that's cool and interesting!**
 
