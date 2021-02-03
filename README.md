@@ -11,7 +11,7 @@
 ### About me:
 - I am currently working as `Senior Engineer @ Mindtree Ltd`. 
 - Pursuing my `Post Graduate Diploma` in `Machine Learning and AI` from `IIIT, Bengaluru`.
-- Started my journey as Python ER&D team where I introduced into Machine learning and my interest towards DataScience started from there.
+- Started my journey as Engineer in Python ER&D team where I got introduced to Machine learning and my interest towards DataScience started from there.
 - Improving my knowledge by experimenting, exploring and learning each day. 
 - I am interested in learning and understanding new research papers and started learning about the cool things which can be solved using it.
 - I like coding and always would love to learn & work with new technologies.
