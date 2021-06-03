@@ -14,7 +14,7 @@
 
 ### About me:
 - I am currently working as `Senior Engineer @ Mindtree Ltd`. 
-- Pursuing my `Post Graduate Diploma` in `Machine Learning and AI` from `IIIT, Bengaluru`.
+- Pursuing my `MSc` in `Machine Learning and AI` from `Liverpool John Moores University`.
 - Started my journey as Engineer in Python ER&D team where I got introduced to Machine learning and my interest towards DataScience started from there.
 - Improving my knowledge by experimenting, exploring and learning each day. 
 - I am interested in learning and understanding new research papers and started learning about the cool things which can be solved using it.
