@@ -15,7 +15,7 @@
 ### About me:
 - I am currently working as `Senior Engineer @ Mindtree Ltd`. 
 - `MSc` in `Machine Learning and AI` from `Liverpool John Moores University`.
-- Started my journey as Engineer in Python ER&D team where I got introduced to Machine learning and my interest towards DataScience started from there.
+- Started my journey as Engineer in Python ER&D team where I got introduced to Machine learning and since then I never stopped exploring about Data science.
 - Improving my knowledge by experimenting, exploring and learning each day. 
 - I am interested in understanding new research in NLP and learning about the cool things which can be solved using it.
 - I like coding and always would love to learn & work with new technologies.
