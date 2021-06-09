@@ -22,7 +22,7 @@
 
 
 
-### Tools I am working and learning
+### Tools I play with 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
