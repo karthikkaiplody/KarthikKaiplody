@@ -13,13 +13,12 @@
 
 
 ### About me:
-- I am currently working as `Senior Engineer @ Mindtree Ltd`. 
+- I love `Math, Programming and Data science` 
 - `MSc` in `Machine Learning and AI` from `Liverpool John Moores University`.
-- Started my journey as Engineer in Python ER&D team where I got introduced to Machine learning and since then I never stopped exploring about Data science.
-- Improving my knowledge by experimenting, exploring and learning each day. 
-- I am interested in understanding new research in NLP and learning about the cool things which can be solved using it.
-- I like coding and always would love to learn & work with new technologies.
-- 👯 I’m looking to collaborate on **anything that's cool and interesting!**
+- I’m addicted to learning and growing every day
+- I’m interested in understanding new research in AI and learning about the cool things which can be solved using it.
+- I’m looking to collaborate on open-source **Machine Learning, Computer Vision and Natural Language Processing projects**
+- 👨‍💻 Here is my (portfolio)[https://karthikkaiplody.github.io/]
 
 
 
