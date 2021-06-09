@@ -18,7 +18,7 @@
 - I’m addicted to learning and growing every day
 - I’m interested in understanding new research in AI and learning about the cool things which can be solved using it.
 - I’m looking to collaborate on open-source **Machine Learning, Computer Vision and Natural Language Processing projects**
-- 👨‍💻 Here is my portfolio[KarthikKaiplody.github.io](https://karthikkaiplody.github.io/)
+- 👨‍💻 Here is my portfolio [KarthikKaiplody.github.io](https://karthikkaiplody.github.io/)
 
 
 
