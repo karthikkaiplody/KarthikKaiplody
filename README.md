@@ -49,13 +49,16 @@
 </p> -->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{KarthikKaiplody}/count.svg)
 
+<img src="https://github-readme-stats.vercel.app/api?username=KarthikKaiplody&&show_icons=true&title_color=cf0000&icon_color=ff860d&text_color=000000&bg_color=fcfcfc" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikKaiplody&layout=compact" align="right" height=150em>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/KarthikKaiplody">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikKaiplody&theme=dark&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikKaiplody&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="KarthikKaiplody's github stats"/>
-</a></p>
+</a></p> -->
 <br>
 
 
