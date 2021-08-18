@@ -18,7 +18,7 @@
 - I’m addicted to learning and growing every day
 - I’m interested in understanding new research in AI and learning about the cool things which can be solved using it.
 - Research focus is on Knowledge graphs, Information Retrival and Semantic Search.
-- I’m looking to collaborate on open-source **Machine Learning, Computer Vision and Natural Language Processing projects**
+- I’m looking to collaborate on open-source **Machine Learning, Natural Language Processing and Computer Vision projects**
 - 👨‍💻 Here is my portfolio [KarthikKaiplody.github.io](https://karthikkaiplody.github.io/)
 
 
