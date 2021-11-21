@@ -14,7 +14,7 @@
 
 ### About me:
 - I love `Math, Coding and Data science` 
-- `MSc` in `Machine Learning and AI` from `Liverpool John Moores University`.
+<!-- - `MSc` in `Machine Learning and AI` from `Liverpool John Moores University`. -->
 - I’m addicted to learning and growing every day
 - I’m interested in understanding new research in AI and learning about the cool things which can be solved using it.
 - Research focus is on Knowledge graphs, Information Retrival and Semantic Search.
