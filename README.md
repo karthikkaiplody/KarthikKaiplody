@@ -1,65 +1,50 @@
-## Hi 👋  I am Karthik Kaiplody
+# Hi, I'm Karthik Kaiplody 👋
 
-### Welcome to my `github profile`
+> **Senior AI Engineer**
+> *Specializing in GenAI, Agentic AI, AI Safety and Infrastructure*
 
-<!-- [![Github](https://img.shields.io/github/followers/KarthikKaiplody?label=Follow&style=social)](https://github.com/KarthikKaiplody) -->
-<!-- [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=KarthikKaiplody)](https://github.com/KarthikKaiplody) -->
-[![Linkedin](https://img.shields.io/badge/-Karthik%20Kaiplody-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/karthikkaiplody)
-[![Mail](https://img.shields.io/badge/-karthik.kaiplody@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:karthik.kaiplody@gmail.com)
+---
 
+### 👨‍💻 About Me
 
-<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
-<img align='right' src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="230">
+I am a passionate AI Engineer with a strong foundation in **Machine Learning** and **Data Science**. My work bridges the gap between cutting-edge research and scalable production systems. I focus on building intelligent systems that leverage **Large Language Models (LLMs)** and **Semantic Search** to solve complex information retrieval challenges.
 
+- 🔭 **Current Focus**: Advancing research in Large Language Models (LLMs) and Agentic AI.
+- 🎓 **Education**: Masters in Data Science from Illinois Institute of Technology.
+- 💡 **Interests**: Advanced RAG, Agentic RAG, AI Safety, Reinforcement Learning, LLMOps, Computer Vision, and Open Source collaboration.
+- 🌐 **Portfolio**: [karthikkaiplody.github.io](https://karthikkaiplody.github.io/)
 
-### About me:
-- I love `Math, Coding and Data science` 
-<!-- - `MSc` in `Machine Learning and AI` from `Liverpool John Moores University`. -->
-- I focus on learning and growing every day
-- I’m interested in understanding new research in AI and learning about the cool things which can be solved using it.
-- Research focus is on Knowledge graphs, Information Retrival and Semantic Search.
-- I’m looking to collaborate on open-source **Machine Learning, Natural Language Processing and Computer Vision projects**
-- 👨‍💻 Here is my portfolio [KarthikKaiplody.github.io](https://karthikkaiplody.github.io/)
+---
 
+### 🛠️ Technical Expertise
 
+| **GenAI & Agents** | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 
-### Tools I play with 
-<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+---
 
-<!--
-### Interesting stats
--->
-<!-- ![Karthik's stats](https://github-readme-stats.vercel.app/api?username=KarthikKaiplody&show_icons=true) -->
+### 📈 GitHub Stats
 
- <!--   <img class="center" alt="Karthik Kaiplody's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KarthikKaiplody.KarthikKaiplody"/>
-</p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikKaiplody&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikKaiplody&layout=compact&theme=minimal&hide_border=true" height="150" alt="languages graph" />
+</div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{KarthikKaiplody}/count.svg)
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=KarthikKaiplody&&show_icons=true&title_color=cf0000&icon_color=ff860d&text_color=000000&bg_color=fcfcfc" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikKaiplody&layout=compact" align="right" height=150em>
+### 📫 Connect with Me
 
-<!-- <p align="center">
-<a href="https://github.com/KarthikKaiplody">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikKaiplody&theme=dark&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikKaiplody&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="KarthikKaiplody's github stats"/>
-</a></p> -->
-<br>
-
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/karthikkaiplody">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:karthik.kaiplody@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://karthikkaiplody.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
