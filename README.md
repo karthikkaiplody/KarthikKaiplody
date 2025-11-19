@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate AI Engineer with a strong foundation in **Machine Learning** and **Data Science**. My work bridges the gap between cutting-edge research and scalable production systems. I focus on building intelligent systems that leverage **Large Language Models (LLMs)** and **Semantic Search** to solve complex information retrieval challenges.
+I am a passionate AI Engineer with a strong foundation in **Machine Learning** and **Data Science**. My work bridges the gap between cutting-edge research and scalable production systems. I specialize in architecting and building scalable **Generative AI** and **Agentic Systems**, leveraging **Advanced RAG** and **LLMs** to solve complex enterprise-scale information retrieval challenges.
 
 - 🔭 **Current Focus**: Advancing research in Large Language Models (LLMs) and Agentic AI.
 - 🎓 **Education**: Masters in Data Science from Illinois Institute of Technology.
