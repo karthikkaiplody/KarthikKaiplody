@@ -33,7 +33,4 @@ I am a passionate AI Engineer with a strong foundation in **Machine Learning** a
   <a href="mailto:karthik.kaiplody@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://karthikkaiplody.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+  div>
